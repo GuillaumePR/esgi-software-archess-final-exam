@@ -7,6 +7,7 @@
   },
   "name": "esgi-software-archess-final-exam",
   "version": "0.0.0",
+  "private": true,
   "scripts": {
     "start": "node ./bin/www",
     "test": "jest"
