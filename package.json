@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/GuillaumePR/esgi-software-archess-final-exam/issues"
   },
-  "homepage": "https://github.com/GuillaumePR/esgi-software-archess-final-exam#readme"
+  "homepage": "https://github.com/GuillaumePR/esgi-software-archess-final-exam#readme",
+  "dependencies": {
+    "jest": "^29.4.3"
+  }
 }
