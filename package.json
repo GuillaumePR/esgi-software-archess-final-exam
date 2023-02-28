@@ -1,0 +1,20 @@
+{
+  "name": "esgi-software-archess-final-exam",
+  "version": "1.0.0",
+  "description": "This repository is used for the final exam of the Software Architecture Essentials course by Emmanuel Gautier. This course has been followed in the context of ESGI's bachelor cursus.",
+  "main": "script.js",
+  "scripts": {
+    "build": "npm build",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/GuillaumePR/esgi-software-archess-final-exam.git"
+  },
+  "author": "guillaume_prodault",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GuillaumePR/esgi-software-archess-final-exam/issues"
+  },
+  "homepage": "https://github.com/GuillaumePR/esgi-software-archess-final-exam#readme"
+}
